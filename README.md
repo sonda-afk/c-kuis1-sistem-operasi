@@ -2,6 +2,7 @@
 &lt;/diajukan untuk melengkapi tugas serta kuis pada mata kuliah sistem operasi/>
 
 Kelompok Sistem Operasi
+
 Anggota :
 1.  Ariel Jusuf Indrastata (1805152)
 2.  Puput Yuniar Maulida (1800591)
