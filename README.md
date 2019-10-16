@@ -10,6 +10,8 @@ Anggota :
 
 DESKRIPSI KODE PROGRAM
 
+Soal Kuis 1 : Membuat program untuk menghitung jumlah kata pada file .txt menggunakan bahasa C
+
 Pada program ini terdapat beberapa fitur, antara lain
 1.  Mencari jumlah kata berdasarkan karakter masukan
     
