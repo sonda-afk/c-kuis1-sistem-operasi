@@ -1,5 +1,5 @@
 # c-kuis1-sistem-operasi
-&lt;diajukan untuk melengkapi tugas serta kuis pada mata kuliah sistem operasi
+&lt;/diajukan untuk melengkapi tugas serta kuis pada mata kuliah sistem operasi/>
 
 Kelompok Sistem Operasi
 Anggota :
